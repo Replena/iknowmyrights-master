@@ -168,7 +168,7 @@ class AboutScreen extends StatelessWidget {
                   linkedinUrl: 'https://www.linkedin.com/in/alperenmimaroglu/',
                 ),
                 DeveloperCard(
-                  name: 'Emir Sinan Yolbaş',
+                  name: 'Emir Sinan Yoldaş',
                   role: 'Frontend Developer',
                   imageUrl: 'assets/images/developer2.jpg',
                   githubUrl: 'https://github.com/emirsinanyolbas',
